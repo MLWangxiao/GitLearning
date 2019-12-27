@@ -1,2 +1,3 @@
 aaaaaaaaaaaaaaa
 BBBBBBBBBBBB
+Creating a new branch is quick AND simple.
